@@ -1,6 +1,3 @@
 sienna
-<<<<<<< HEAD
 camry
-=======
 4runner
->>>>>>> cars
